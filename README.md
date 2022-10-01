@@ -4,7 +4,7 @@
 
 🎓 I am Georg Kreuzmayr and I am a Software Engineer with ca 2.5 years experience working in R&D teams or as a high responsibility, early-joining developer. I am a proficient and independent Backend Developer concentrating on Systems Programming in C++ and Rust. I am seeking a PhD in Database Systems specializing on hardware aware optimizations and compiling systems.
 
-👨‍💻 I enjoy working on complex systems and have contributed to several **Open Source Projects** inclduing, **RisingWave**, and **ArchUnitNET**. I am enthusiastic about working with new Systems Programming languages like **Rust** and **Carbon**.
+👨‍💻 I enjoy working on complex systems and have contributed to several **Open Source Projects** inclduing, **RisingWave**, and **ArchUnitNET**. I am enthusiastic about working with new Systems Programming languages like **Rust** and **Carbon**. And currently especially about the talk given by Herb Sutter about Cpp2: https://www.youtube.com/watch?v=ELeZAKCN4tY&t=2724s&ab_channel=CppCon.
 
 🎸 Outside the world of tech too, I enjoy developing new skills. My hobbies span **singing**, **bachata dancing**, **surfing**, and **mountain sports** like hiking, skiing, and ski touring.
 
