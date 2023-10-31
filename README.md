@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Georg Kreuzmayr and I am a Software Engineer with ca 2.5 years experience working in R&D teams or as a high responsibility, early-joining developer. I am a proficient and independent Backend Developer concentrating on Systems Programming in C++ and Rust. I am seeking a PhD in Database Systems specializing on hardware aware optimizations and compiling systems.
-
-👨‍💻 I enjoy working on complex systems and have contributed to several **Open Source Projects** inclduing, **RisingWave**, and **ArchUnitNET**.
+🎓 I am Georg Kreuzmayr, and I love Databases.
 
 
 ## 🛠️ Skills
